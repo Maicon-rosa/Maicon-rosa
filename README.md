@@ -1,0 +1,3 @@
+- 👋 Olá eu sou @Maicon-rosa
+- Tenho interesse na linguagem de progração javascript
+- Tenho noção de HTML e CSS, e quero me aprofundar na parte de frontend e backend
